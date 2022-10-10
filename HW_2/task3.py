@@ -13,3 +13,13 @@ for i in range(1, n + 1):
 print(res_list)
 print(sum1)
  
+# Оно же
+
+
+#  n = int(input("Введите целое положительное число N: "))
+# res_list = []
+# sum1 = 0
+# for i in range(1, n + 1):
+# res_list.append(round(((1 + 1/i) ** i), 2))
+# sum1 += round(((1 + 1/i) ** i), 2)
+# print(f"Для N = {n} последовательность чисел: {res_list} \nСумма чисел последовательности равна {sum1}")
